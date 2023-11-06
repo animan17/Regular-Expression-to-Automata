@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "fstream": "cpp",
+        "span": "cpp",
+        "iostream": "cpp",
+        "bitset": "cpp",
+        "set": "cpp",
+        "random": "cpp",
+        "*.tcc": "cpp"
+    }
+}
