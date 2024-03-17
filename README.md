@@ -1,4 +1,4 @@
-A. How to run,
+**A. How to run,**
 
 (Use Windows)
 
@@ -6,16 +6,12 @@ Using command line interface,
 
 	1. Run <project_root_directory>\imguitest\main.exe
 	
-Note,
-
-Command line may not be given permission to open foreign files OR Antivirus software may block it.
-
-In that case use Windows File Explorer to navigate to <project_root_directory>\imguitest and double click on main.exe
+**Note:** Command line may not be given permission to open foreign files OR Antivirus software may block it. In that case use Windows File Explorer to navigate to <project_root_directory>\imguitest and double click on main.exe
 
 
 
 
-B. How to compile .exe,
+**B. How to compile .exe,**
 
 Using command line interface,
 
