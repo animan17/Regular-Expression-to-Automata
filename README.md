@@ -4,9 +4,7 @@ A. How to run,
 
 Using command line interface,
 
-	1. Navigate to <project_root_directory> and then run,
-
-	2. imguitest\main.exe
+	1. Run <project_root_directory>\imguitest\main.exe
 	
 Note,
 
@@ -17,11 +15,11 @@ In that case use Windows File Explorer to navigate to <project_root_directory>\i
 
 
 
-B. How to compile exe,
+B. How to compile .exe,
 
 Using command line interface,
 
-	1. Navigate to <project_root_directory>\imguitest and then run,
+	1. cd <project_root_directory>\imguitest
 
 	2. g++ -c ../automata.cpp -o ../automata.o
 	
